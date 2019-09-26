@@ -2,7 +2,7 @@
 Introduction to Convolutional Neural Network - Study
 Source : https://victorzhou.com/blog/intro-to-neural-networks/
 
-*** Intro-CNN1 :
+*** Intro-CNN-1 :
 
 - Introduced neurons, the building blocks of neural networks.
 - Used the sigmoid activation function in our neurons.
@@ -13,4 +13,4 @@ Source : https://victorzhou.com/blog/intro-to-neural-networks/
 - Used backpropagation to calculate partial derivatives.
 - Used stochastic gradient descent (SGD) to train our network.
 
-*** Intro-CNN2 :
+*** Intro-CNN-2 :
